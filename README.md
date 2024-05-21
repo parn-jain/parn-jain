@@ -20,7 +20,7 @@
 
 - 💬 Ask me about- **Data, art, and animation.**
 
-- 📫 How to reach me- **pjisvgreat@gmial.com**
+- 📫 How to reach me- **pjisvgreat@gmail.com**
 
 
 
