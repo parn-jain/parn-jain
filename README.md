@@ -9,18 +9,21 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=parn-jain&label=Profile%20views&color=0e75b6&style=flat"
     alt="parn-jain" /> 
   </p>
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Lie Dev Data Doesnt GIF via GIPHY">
-<p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm"></a></p>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Lie Dev Data Doesnt GIF via GIPHY" style="float: right; margin: 10px;">
 
+<div style="float: left;">
+  <p align="left">
+    <a href="https://twitter.com/" target="blank">
+      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+    </a>
+  </p>
+  <ul>
+    <li>🔎 I’m currently Exploring <strong>Data analysis and Python development</strong></li>
+    <li>💬 Ask me about- <strong>Data, art, and animation</strong></li>
+    <li>📩 How to reach me- <strong>pjisvgreat@gmail.com</strong></li>
+  </ul>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-- 🔎 I’m currently Exploring **Data analysis and Python development**
-
-- 💬 Ask me about- **Data , art and animation**
-
-- 📩 How to reach me- **pjisvgreat@gmail.com**
 
 <h1></h1>
 
