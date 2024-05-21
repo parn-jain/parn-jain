@@ -9,7 +9,9 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=parn-jain&label=Profile%20views&color=0e75b6&style=flat"
     alt="parn-jain" /> 
   </p>
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Lie Dev Data Doesnt GIF via GIPHY" style="float: right; margin: 10px;">
+<div style="float: right; margin: 10px;">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Lie Dev Data Doesnt GIF via GIPHY">
+</div>
 
 <div style="float: left;">
   <p align="left">
@@ -23,6 +25,7 @@
     <li>📩 How to reach me- <strong>pjisvgreat@gmail.com</strong></li>
   </ul>
 </div>
+
 
 
 <h1></h1>
