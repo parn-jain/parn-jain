@@ -10,7 +10,7 @@
     alt="parn-jain" /> 
   </p>
 <div style="float: right; margin: 10px;">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Lie Dev Data Doesnt GIF via GIPHY">
+  <img width="200" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Lie Dev Data Doesnt GIF via GIPHY">
 </div>
 
 <div style="float: left;">
